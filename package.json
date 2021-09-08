@@ -1,0 +1,22 @@
+{
+    "name": "chillsight",
+    "displayName": "chillsight",
+    "description": "Chill Sight is a chill theme made by ved77u",
+    "version": "0.0.1",
+    "publisher": "ved77u",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chill Sight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chill Sight-color-theme.json"
+            }
+        ]
+    }
+}
